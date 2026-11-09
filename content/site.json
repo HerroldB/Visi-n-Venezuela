@@ -1,0 +1,60 @@
+{
+  "site_name": "VISIÓN VENEZUELA",
+  "site_kicker": "UNA VISIÓN DE PAÍS",
+  "site_description": "Un espacio independiente para presentar propuestas de reconstrucción institucional, jurídica, económica y social de Venezuela.",
+  "email": "",
+  "sections": [
+    {
+      "slug": "gobierno", "label": "Gobierno", "tagline": "Instituciones, organización pública y principios de gobierno.",
+      "items": [
+        {"slug":"ministerios", "title":"Ministerios", "intro":"Una propuesta para examinar la estructura ministerial, sus competencias y la organización de la administración pública."},
+        {"slug":"ideologia", "title":"Ideología y principios", "intro":"Los principios que orientan esta visión de país: libertades, instituciones, responsabilidad pública y desarrollo económico."}
+      ]
+    },
+    {
+      "slug": "leyes", "label": "Leyes", "tagline": "Análisis y propuestas de reforma del ordenamiento jurídico venezolano.",
+      "items": [
+        {"slug":"constitucional", "title":"Derecho constitucional", "intro":"Análisis de las bases constitucionales y del diseño institucional de la República."},
+        {"slug":"administrativo", "title":"Derecho administrativo", "intro":"Evaluación de la organización administrativa, procedimientos y potestades del Estado."},
+        {"slug":"civil", "title":"Derecho civil", "intro":"Estudio de las normas que regulan personas, bienes, obligaciones y relaciones privadas."},
+        {"slug":"penal", "title":"Derecho penal", "intro":"Revisión del marco penal, sus garantías y los principios aplicables a las sanciones."},
+        {"slug":"procesal", "title":"Derecho procesal", "intro":"Estudio de los procedimientos judiciales y las garantías de acceso a la justicia."},
+        {"slug":"mercantil", "title":"Derecho mercantil", "intro":"Evaluación de las reglas de actividad empresarial, contratación comercial y sociedades."},
+        {"slug":"laboral", "title":"Derecho laboral", "intro":"Análisis de las relaciones de trabajo, protección de derechos y regulación laboral."},
+        {"slug":"tributario", "title":"Derecho tributario y fiscal", "intro":"Estudio de los impuestos, obligaciones fiscales y principios de política tributaria."},
+        {"slug":"educacion", "title":"Educación", "intro":"Revisión del marco jurídico de la educación y su relación con la formación de capital humano."},
+        {"slug":"salud", "title":"Salud", "intro":"Evaluación de las normas y estructuras aplicables a la salud pública y los servicios sanitarios."},
+        {"slug":"seguridad", "title":"Seguridad y defensa", "intro":"Estudio de las disposiciones sobre seguridad ciudadana, defensa y organización institucional."},
+        {"slug":"ambiente", "title":"Ambiente y recursos naturales", "intro":"Análisis de la regulación ambiental y de la gestión de recursos naturales."},
+        {"slug":"energia", "title":"Energía y minería", "intro":"Revisión normativa de energía, hidrocarburos, electricidad y actividad minera."},
+        {"slug":"territorial", "title":"Estados y municipios", "intro":"Evaluación de competencias, autonomía y relaciones entre niveles de gobierno."},
+        {"slug":"digital", "title":"Tecnología y datos", "intro":"Estudio de las reglas sobre tecnología, información, datos y administración digital."},
+        {"slug":"internacional", "title":"Derecho internacional y migratorio", "intro":"Análisis de las relaciones jurídicas internacionales, migración y compromisos normativos."}
+      ]
+    },
+    {
+      "slug": "proyectos", "label": "Proyectos", "tagline": "Proyectos públicos y privados para desarrollar capacidades de país.",
+      "items": [
+        {"slug":"infraestructura", "title":"Infraestructura", "intro":"Portafolio de propuestas de conectividad, energía, transporte, servicios y equipamiento territorial."},
+        {"slug":"capital-humano", "title":"Capital humano", "intro":"Propuestas para fortalecer formación, productividad, conocimiento y oportunidades de desarrollo."}
+      ]
+    },
+    {
+      "slug": "objetivos", "label": "Objetivos", "tagline": "Una hoja de ruta organizada en distintos horizontes temporales.",
+      "items": [
+        {"slug":"corto-plazo", "title":"Corto plazo", "intro":"Prioridades que requieran una acción inicial y permitan establecer bases verificables."},
+        {"slug":"mediano-plazo", "title":"Mediano plazo", "intro":"Objetivos de consolidación institucional y ejecución gradual de reformas y proyectos."},
+        {"slug":"largo-plazo", "title":"Largo plazo", "intro":"Resultados estructurales y aspiraciones de desarrollo que requieren continuidad en el tiempo."}
+      ]
+    }
+  ],
+  "overrides": {},
+  "faq": [
+    {"question":"¿Qué es Visión Venezuela?", "answer":"Es una plataforma informativa independiente para presentar una visión personal de reconstrucción institucional, jurídica y económica de Venezuela."},
+    {"question":"¿Los documentos publicados son leyes vigentes?", "answer":"No necesariamente. El sitio distinguirá entre fuentes normativas, análisis de normas existentes y propuestas de reforma. Ningún documento de propuesta tiene carácter oficial."},
+    {"question":"¿Dónde estarán los documentos completos?", "answer":"Cada apartado incluirá un resumen y, cuando esté preparado, un documento en PDF consultable desde la misma página."},
+    {"question":"¿Cómo se indicará el estado de cada propuesta?", "answer":"Las propuestas se publicarán con estado y fecha de actualización. Los contenidos que todavía no estén disponibles se identificarán expresamente como «En preparación»."},
+    {"question":"¿Se publicarán fuentes y referencias?", "answer":"Los documentos de investigación podrán incluir bibliografía, gacetas, normas y referencias verificables. La incorporación de cada fuente se indicará en el respectivo documento."},
+    {"question":"¿Este sitio representa a una institución pública o partido político?", "answer":"No. Es una plataforma de carácter independiente; no es un portal gubernamental ni implica respaldo de ninguna institución oficial."}
+  ]
+}
